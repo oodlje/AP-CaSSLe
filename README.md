@@ -1,1 +1,1 @@
-A design of a CaSSLe-Based offline continual reinforcement learning model in autonomous driving edge devices
+A design of a CaSSLe-based offline continual reinforcement learning model(AP-CaSSLe) in autonomous driving edge devices
